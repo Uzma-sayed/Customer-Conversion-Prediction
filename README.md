@@ -1,2 +1,3 @@
 # Customer-Conversion-Prediction
-Here we have a historical marketing data of the insurance company and are required to build a ML model that will predict if a client will subscribe to the insurance
+
+This project aims to predict Customer conversion for an insurance company. Using historical data, we will develop a machine learning model that can identify which customers are most likely to purchase a policy. By understanding the patterns and behaviours of previous customers, the model can make predictions and provide valuable insight to a company. The objective is to increase the rate of successful conversions and ultimately improve the companies bottom line. 
